@@ -33,6 +33,7 @@
 
 * T.06 Indicatore qualitativo: iniziative di realizzazione di software open-source
   * Metrica: Rendicontazione qualitativa
+
   
 * T.07 Indicatore qualitativo: iniziative di realizzazione di dati open-source
   * Metrica: Rendicontazione qualitativa
