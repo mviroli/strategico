@@ -2,14 +2,17 @@
 
 ### C.1.1 Potenziare l'impatto economico sul piano regionale, nazionale e internazionale anche attraverso progetti di imprenditorialità
 
-* T.01 Numero di brevetti sul totale del personale docente strutturato
-  * Metrica: Numero di brevetti, marchi e varietà vegetali con titolarità - cotitolarità depositati dall’Ateneo nell’anno (comprensivo anche delle diverse estensioni internazionali), rapportato al numero di docenti e ricercatori in servizio al 31/12 di ciascun anno
+* T.01 Valorizzazione di brevetti, licenze, royalty, marchi e varietà vegetali con titolarità
+  * Metrica: brevetti, licenze, royalty, marchi e varietà vegetali con titolarità - cotitolarità depositati dall’Ateneo nell’anno (comprensivo anche delle diverse estensioni internazionali), rapportato al numero di docenti e ricercatori in servizio al 31/12 di ciascun anno
   * Obiettivo: Valore pro - capite 2015 (2,34)
+  * Metrica: Incassi complessivi risultanti
  
 
-* T.02 Numero Spin-off accreditati/attivi e start up
+* T.02 Impatto degli Spin-off accreditati/attivi e start up
   * Metrica: Numero Spin - off accreditati e attivi (portafoglio come da definizione SUA - RD) e start - up
-  * Obiettiv: Media 2013 – 2015 (23)
+  * Obiettivo: Media 2013 – 2015 (23)
+  * Metrica: Impatto economico
+  * Metrica: Impatto occupazionale
   
 * T.03 Fatturato dell’attività scientifica su commissione sul totale del personale docente strutturato
   * Metrica: Incassi per attività commerciale (codice Siope 1310) al netto di eventuali incassi relativi a progetti di ricerca competitivi
