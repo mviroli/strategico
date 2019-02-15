@@ -10,13 +10,12 @@
 * T.02 Numero Spin-off accreditati/attivi e start up
   * Metrica: Numero Spin - off accreditati e attivi (portafoglio come da definizione SUA - RD) e start - up
   * Obiettiv: Media 2013 – 2015 (23)
-
-### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
-
+  
 * T.03 Fatturato dell’attività scientifica su commissione sul totale del personale docente strutturato
   * Metrica: Incassi per attività commerciale (codice Siope 1310) al netto di eventuali incassi relativi a progetti di ricerca competitivi
   * Obiettivo: Media procapite 2012 - 14 (€8.725)
 
+### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
 
 * T.04 Indicatore qualitativo: iniziative di potenziamento delle strutture di supporto e di interfaccia
   * Metrica: Rendicontazione qualitativa
