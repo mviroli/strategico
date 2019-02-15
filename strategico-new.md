@@ -32,13 +32,13 @@
   
 # C.2 Promuovere l'impatto dell'open-science sulla società
 
-### C.2.1 Favorire sviluppo, fruizione e impatto dell'open-source
+### C.2.1 Favorire sviluppo, fruizione e impatto dell'open-source e degli open-data
 
 * T.06 Indicatore qualitativo: iniziative di realizzazione di software open-source
   * Metrica: Rendicontazione qualitativa
 
   
-* T.07 Indicatore qualitativo: iniziative di realizzazione di dati open-source
+* T.07 Indicatore qualitativo: iniziative di realizzazione di open-data
   * Metrica: Rendicontazione qualitativa
 
 # C.3 Promuovere lo sviluppo culturale e sociale attraverso le iniziative di public engagement
