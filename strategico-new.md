@@ -17,6 +17,7 @@
 * T.03 Fatturato dell’attività scientifica su commissione sul totale del personale docente strutturato
   * Metrica: Incassi per attività commerciale (codice Siope 1310) al netto di eventuali incassi relativi a progetti di ricerca competitivi
   * Obiettivo: Media procapite 2012 - 14 (€8.725)
+  * Metrica: Numero di contratti
 
 ### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
 
