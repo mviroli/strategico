@@ -93,3 +93,8 @@ Nota: C.3.2 e C.3.5 sono collegati e/o sono più attività didattiche?
 
 * T.15 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
+  
+### C.3.7 Valorizzare la partecipazione a enti normativi e comitati scientifici
+
+* T.16 Relazione qualitativa sulle attività svolte
+  * Metrica: Rendicontazione qualitativa
