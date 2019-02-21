@@ -32,6 +32,7 @@ Nota: si possono aggiungere più metriche per indicatore?
   * Obiettivo: Realizzazione del 70% delle iniziative programmate  
   
 Ipotesi di aggregazione fra C.1.2 e C.1.3?
+Confermiamo gli obiettivi di T.05?
   
 # C.2 Promuovere l'impatto dell'open-science sulla società
 
