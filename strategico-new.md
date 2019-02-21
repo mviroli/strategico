@@ -59,31 +59,31 @@ Confermiamo gli obiettivi di T.05?
 
 ### C.3.1 Qualificare e potenziare i percorsi di formazione professionalizzante e permanente
 
-* T.08 Numero studenti, docenti e professionisti, coinvolti nei corsi di formazione professionalizzante e permanente
-  * Metrica: Numero iscritti a corsi di Alta Formazione, Formazione Permanente, Master di I o II livello che danno CFU
+* T.10 Numero studenti, docenti e professionisti, coinvolti nei corsi di formazione professionalizzante e permanente
+  * Metrica: Numero iscritti a corsi accreditati di Alta Formazione, Formazione Permanente, Master di I o II livello
   * Obiettivo: Media biennio 2014/15–2015/16 (2.118)
 
 ### C.3.2 Qualificare e potenziare i percorsi di avvicinamento e orientamento alla formazione universitaria
 
-* T.09 Numero studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
+* T.11 Numero studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
   * Metrica: Numero di studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
 
 ### C.3.3 Favorire processi di miglioramento della sostenibilità ambientale e sociale degli insediamenti e della comunità universitaria unitamente alla riqualificazione del territorio in sinergia con tutte le istituzioni
 
-* T.10 Indicatore qualitativo sulle iniziative svolte negli ambiti “social” e “green”
+* T.12 Indicatore qualitativo sulle iniziative svolte negli ambiti “social” e “green”
   * Metrica: Rendicontazione qualitativa
 
 ### C.3.4 Promuovere attività di divulgazione scientifica e culturale
 
-* T.11 Indicatore qualitativo: dotarsi di strumenti per misurare l’impatto e rimandare al Bilancio Sociale per la rendicontazione
+* T.13 Indicatore qualitativo: dotarsi di strumenti per misurare l’impatto e rimandare al Bilancio Sociale per la rendicontazione
   * Metrica: Rendicontazione qualitativa
   
 ### C.3.5 Valorizzare il patrimonio di conoscenze professionali dei nostri laureati e del nostro personale per sviluppare reti e sinergie tra l’Ateneo e la collettività
 
-* T.12 Relazione qualitativa sulle attività svolte
+* T.14 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
 
 ### C.3.6 Promuovere attività volte a favorire equilibrio di genere nelle varie fasi del percorso formativo e professionale
 
-* T.13 Relazione qualitativa sulle attività svolte
+* T.15 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
