@@ -22,7 +22,7 @@ Nota: si possono aggiungere più metriche per indicatore?
 
 Nota: Il T.03 dovrebbe includere anche il conto terzi 
 
-Nota: Si vorrebbe aggiungere anche una metrica per i trial clinici
+Nota: Si vorrebbe aggiungere anche un indicatore (T.04?) e/o metrica per i trial clinici
 
 ### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
 
