@@ -31,8 +31,8 @@ Nota: si possono aggiungere più metriche per indicatore?
   * Metrica: Rendicontazione qualitativa
   * Obiettivo: Realizzazione del 70% delle iniziative programmate  
   
-Ipotesi di aggregazione fra C.1.2 e C.1.3?
-Confermiamo gli obiettivi di T.05?
+Nota: Ipotesi di aggregazione fra C.1.2 e C.1.3?
+Nota: Confermiamo gli obiettivi di T.05?
   
 # C.2 Promuovere l'impatto dell'open-science sulla società
 
@@ -67,6 +67,8 @@ Confermiamo gli obiettivi di T.05?
 
 * T.11 Numero studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
   * Metrica: Numero di studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
+
+Nota: Ipotesi di aggregazione fra C.3.1 e C.3.2?
 
 ### C.3.3 Favorire processi di miglioramento della sostenibilità ambientale e sociale degli insediamenti e della comunità universitaria unitamente alla riqualificazione del territorio in sinergia con tutte le istituzioni
 
