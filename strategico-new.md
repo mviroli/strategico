@@ -75,10 +75,12 @@ Nota: Ipotesi di aggregazione fra C.3.1 e C.3.2?
 * T.12 Indicatore qualitativo sulle iniziative svolte negli ambiti “social” e “green”
   * Metrica: Rendicontazione qualitativa
 
-### C.3.4 Promuovere attività di divulgazione scientifica e culturale
+### C.3.4 Promuovere attività di divulgazione e formazione scientifica e culturale
 
 * T.13 Indicatore qualitativo: dotarsi di strumenti per misurare l’impatto e rimandare al Bilancio Sociale per la rendicontazione
   * Metrica: Rendicontazione qualitativa
+  
+Nota: ora dovrebbe comprendere anche attività di formazione nella scuola primaria/secondaria; forse bisogna modificare il T.13   
   
 ### C.3.5 Valorizzare il patrimonio di conoscenze professionali dei nostri laureati e del nostro personale per sviluppare reti e sinergie tra l’Ateneo e la collettività
 
