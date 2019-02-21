@@ -6,8 +6,7 @@
   * Metrica: brevetti, licenze, royalty, marchi e varietà vegetali con titolarità - cotitolarità depositati dall’Ateneo nell’anno (comprensivo anche delle diverse estensioni internazionali), rapportato al numero di docenti e ricercatori in servizio al 31/12 di ciascun anno
   * Obiettivo: Valore pro - capite 2015 (2,34)
   * Metrica: Incassi complessivi risultanti
- 
-
+  
 * T.02 Impatto degli Spin-off accreditati/attivi e start up
   * Metrica: Numero Spin - off accreditati e attivi (portafoglio come da definizione SUA - RD) e start - up
   * Obiettivo: Media 2013 – 2015 (23)
@@ -19,6 +18,8 @@
   * Obiettivo: Media procapite 2012 - 14 (€8.725)
   * Metrica: Numero di contratti
 
+Nota: si possono aggiungere più metriche per indicatore?
+
 ### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
 
 * T.04 Indicatore qualitativo: iniziative di potenziamento delle strutture di supporto e di interfaccia
@@ -29,6 +30,8 @@
 * T.05 Grado di raggiungimento delle iniziative programmate e dotarsi di strumenti di misurazione dell’impatto
   * Metrica: Rendicontazione qualitativa
   * Obiettivo: Realizzazione del 70% delle iniziative programmate  
+  
+Ipotesi di aggregazione fra C.1.2 e C.1.3?
   
 # C.2 Promuovere l'impatto dell'open-science sulla società
 
