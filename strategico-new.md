@@ -49,6 +49,11 @@ Confermiamo gli obiettivi di T.05?
 * T.08 Indicatore qualitativo: altre iniziative open-science (open labs, open science policies, ...)
   * Metrica: Rendicontazione qualitativa
 
+### C.2.2 Promuovere la diffusione e la fruizione dell'open-science
+
+* T.09 Indicatore qualitativo: iniziative per la divulgazione, la promozione, e la fruizione dell'open-science
+  * Metrica: Rendicontazione qualitativa
+
 
 # C.3 Promuovere lo sviluppo culturale e sociale attraverso le iniziative di public engagement
 
