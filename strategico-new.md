@@ -36,7 +36,7 @@ Confermiamo gli obiettivi di T.05?
   
 # C.2 Promuovere l'impatto dell'open-science sulla società
 
-### C.2.1 Favorire sviluppo, fruizione e impatto dell'open-source e degli open-data
+### C.2.1 Favorire lo sviluppo dell'open-science
 
 * T.06 Indicatore qualitativo: iniziative di realizzazione di software open-source
   * Metrica: Rendicontazione qualitativa
@@ -44,6 +44,11 @@ Confermiamo gli obiettivi di T.05?
   
 * T.07 Indicatore qualitativo: iniziative di realizzazione di open-data
   * Metrica: Rendicontazione qualitativa
+
+
+* T.08 Indicatore qualitativo: altre iniziative open-science (open labs, open science policies, ...)
+  * Metrica: Rendicontazione qualitativa
+
 
 # C.3 Promuovere lo sviluppo culturale e sociale attraverso le iniziative di public engagement
 
