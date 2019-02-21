@@ -20,6 +20,8 @@
 
 Nota: si possono aggiungere più metriche per indicatore?
 
+Nota: Il T.03 dovrebbe includere anche il conto terzi
+
 ### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
 
 * T.04 Indicatore qualitativo: iniziative di potenziamento delle strutture di supporto e di interfaccia
