@@ -84,6 +84,8 @@ Nota: Ipotesi di aggregazione fra C.3.1 e C.3.2?
 
 * T.14 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
+  
+Nota: C.3.2 e C.3.5 sono collegati e/o sono più attività didattiche?
 
 ### C.3.6 Promuovere attività volte a favorire equilibrio di genere nelle varie fasi del percorso formativo e professionale
 
