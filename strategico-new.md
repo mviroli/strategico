@@ -18,11 +18,11 @@
   * Obiettivo: Media procapite 2012 - 14 (€8.725)
   * Metrica: Numero di contratti
   
-Nota: si possono aggiungere più metriche per indicatore?
+>Nota: si possono aggiungere più metriche per indicatore?
 
-Nota: Il T.03 dovrebbe includere anche il conto terzi 
+>Nota: Il T.03 dovrebbe includere anche il conto terzi 
 
-Nota: Si vorrebbe aggiungere anche un indicatore (T.04?) e/o metrica per i trial clinici
+>Nota: Si vorrebbe aggiungere anche un indicatore (T.04?) e/o metrica per i trial clinici
 
 ### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
 
@@ -35,8 +35,9 @@ Nota: Si vorrebbe aggiungere anche un indicatore (T.04?) e/o metrica per i trial
   * Metrica: Rendicontazione qualitativa
   * Obiettivo: Realizzazione del 70% delle iniziative programmate  
   
-Nota: Ipotesi di aggregazione fra C.1.2 e C.1.3?
-Nota: Confermiamo gli obiettivi di T.05?
+>Nota: Ipotesi di aggregazione fra C.1.2 e C.1.3?
+
+>Nota: Confermiamo gli obiettivi di T.05?
   
 # C.2 Promuovere l'impatto dell'open-science sulla società
 
@@ -72,7 +73,7 @@ Nota: Confermiamo gli obiettivi di T.05?
 * T.11 Numero studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
   * Metrica: Numero di studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
 
-Nota: Ipotesi di aggregazione fra C.3.1 e C.3.2?
+>Nota: Ipotesi di aggregazione fra C.3.1 e C.3.2?
 
 ### C.3.3 Favorire processi di miglioramento della sostenibilità ambientale e sociale degli insediamenti e della comunità universitaria unitamente alla riqualificazione del territorio in sinergia con tutte le istituzioni
 
@@ -84,14 +85,14 @@ Nota: Ipotesi di aggregazione fra C.3.1 e C.3.2?
 * T.13 Indicatore qualitativo: dotarsi di strumenti per misurare l’impatto e rimandare al Bilancio Sociale per la rendicontazione
   * Metrica: Rendicontazione qualitativa
   
-Nota: ora dovrebbe comprendere anche attività di formazione nella scuola primaria/secondaria; forse bisogna modificare il T.13   
+>Nota: ora dovrebbe comprendere anche attività di formazione nella scuola primaria/secondaria; forse bisogna modificare il T.13   
   
 ### C.3.5 Valorizzare il patrimonio di conoscenze professionali dei nostri laureati e del nostro personale per sviluppare reti e sinergie tra l’Ateneo e la collettività
 
 * T.14 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
   
-Nota: C.3.2 e C.3.5 sono collegati e/o sono più attività didattiche?
+>Nota: C.3.2 e C.3.5 sono collegati e/o sono più attività didattiche?
 
 ### C.3.6 Promuovere attività volte a favorire equilibrio di genere nelle varie fasi del percorso formativo e professionale
 
