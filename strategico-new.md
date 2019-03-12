@@ -33,15 +33,7 @@
 
 ### C.2.1 Favorire lo sviluppo dell'open-science
 
-* T.06 Indicatore qualitativo: iniziative di realizzazione di software open-source
-  * Metrica: Rendicontazione qualitativa
-
-  
-* T.07 Indicatore qualitativo: iniziative di realizzazione di open-data
-  * Metrica: Rendicontazione qualitativa
-
-
-* T.08 Indicatore qualitativo: altre iniziative open-science (open labs, open science policies, ...)
+* T.06 Indicatore qualitativo: iniziative di realizzazione di attività open science (software open-source, open-data, open-labs, open science policies)
   * Metrica: Rendicontazione qualitativa
 
 ### C.2.2 Promuovere la diffusione e la fruizione dell'open-science
@@ -74,16 +66,13 @@
 
 * T.13 Indicatore qualitativo: dotarsi di strumenti per misurare l’impatto e rimandare al Bilancio Sociale per la rendicontazione
   * Metrica: Rendicontazione qualitativa
-  
->Nota: ora dovrebbe comprendere anche attività di formazione nella scuola primaria/secondaria; forse bisogna modificare il T.13   
+ 
   
 ### C.3.5 Valorizzare il patrimonio di conoscenze professionali dei nostri laureati e del nostro personale per sviluppare reti e sinergie tra l’Ateneo e la collettività
 
 * T.14 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
   
->Nota: C.3.2 e C.3.5 sono collegati e/o sono più attività didattiche?
-
 ### C.3.6 Promuovere attività volte a favorire equilibrio di genere nelle varie fasi del percorso formativo e professionale
 
 * T.15 Relazione qualitativa sulle attività svolte
