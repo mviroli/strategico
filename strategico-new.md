@@ -55,8 +55,6 @@
 * T.11 Numero studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
   * Metrica: Numero di studenti coinvolti nei percorsi di avvicinamento e orientamento alla formazione universitaria
 
->Nota: Ipotesi di aggregazione fra C.3.1 e C.3.2?
-
 ### C.3.3 Favorire processi di miglioramento della sostenibilità ambientale e sociale degli insediamenti e della comunità universitaria unitamente alla riqualificazione del territorio in sinergia con tutte le istituzioni
 
 * T.12 Indicatore qualitativo sulle iniziative svolte negli ambiti “social” e “green”
