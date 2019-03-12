@@ -2,8 +2,8 @@
 
 ### C.1.1 Potenziare l'impatto economico sul piano regionale, nazionale e internazionale anche attraverso progetti di imprenditorialità
 
-* T.01 Valorizzazione di brevetti, licenze, royalty, marchi e varietà vegetali con titolarità
-  * Metrica: brevetti, licenze, royalty, marchi e varietà vegetali con titolarità - cotitolarità depositati dall’Ateneo nell’anno (comprensivo anche delle diverse estensioni internazionali), rapportato al numero di docenti e ricercatori in servizio al 31/12 di ciascun anno
+* T.01 Valorizzazione di brevetti, software, marchi e varietà vegetali con titolarità
+  * Metrica: brevetti, software, marchi e varietà vegetali con titolarità - cotitolarità realizzati dall’Ateneo nell’anno, rapportato al numero di docenti e ricercatori in servizio al 31/12 di ciascun anno
   * Obiettivo: Valore pro - capite 2015 (2,34)
   * Metrica: Incassi complessivi risultanti
   
