@@ -76,7 +76,7 @@
 * T.15 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
   
-### C.3.7 Valorizzare la partecipazione a enti normativi e comitati scientifici
+### C.3.7 Valorizzare la partecipazione a organismi di natura istituzionale coinvolti nella produzione di norme e regolamenti
 
 * T.16 Relazione qualitativa sulle attività svolte
   * Metrica: Rendicontazione qualitativa
