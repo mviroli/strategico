@@ -13,16 +13,10 @@
   * Metrica: Impatto economico
   * Metrica: Impatto occupazionale
   
-* T.03 Fatturato dell’attività scientifica su commissione sul totale del personale docente strutturato
-  * Metrica: Incassi per attività commerciale (codice Siope 1310) al netto di eventuali incassi relativi a progetti di ricerca competitivi
+* T.03 Fatturato dell’attività commerciale e scientifica su commissione
+  * Metrica: Incassi per attività commerciale (codice Siope 1310, inclusi trial clinici e conto terzi) al netto di eventuali incassi relativi a progetti di ricerca competitivi
   * Obiettivo: Media procapite 2012 - 14 (€8.725)
-  * Metrica: Numero di contratti
-  
->Nota: si possono aggiungere più metriche per indicatore?
-
->Nota: Il T.03 dovrebbe includere anche il conto terzi 
-
->Nota: Si vorrebbe aggiungere anche un indicatore (T.04?) e/o metrica per i trial clinici
+  * Metrica: Media per contratto
 
 ### C.1.2 Potenziare strutture di supporto e di interfaccia fra il mondo delle imprese e la comunità accademica
 
