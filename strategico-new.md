@@ -29,10 +29,6 @@
   * Metrica: Rendicontazione qualitativa
   * Obiettivo: Realizzazione del 70% delle iniziative programmate  
   
->Nota: Ipotesi di aggregazione fra C.1.2 e C.1.3?
-
->Nota: Confermiamo gli obiettivi di T.05?
-  
 # C.2 Promuovere l'impatto dell'open-science sulla società
 
 ### C.2.1 Favorire lo sviluppo dell'open-science
